@@ -96,7 +96,7 @@
 }
 
 .account-title {
-    color: #ffffff;
+    color: var(--white);
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
